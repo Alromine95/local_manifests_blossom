@@ -6,10 +6,10 @@
   <remote name="sakurajima07" fetch="https://github.com/Sakurajima07" />
   
   <!-- Device Trees -->
-  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="sakurajima07" revision="miku" />
+  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="sakurajima07" revision="infinity" />
 
   <!-- SELinux policies -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_xiaomi_blossom_sepolicy_vndr" remote="sakurajima07" revision="fifteen" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="sakurajima07" revision="lineage-22" />
 
   <!-- Hardware Supports -->
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="sakurajima07" revision="lineage-22.2" />
