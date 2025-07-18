@@ -2,5 +2,5 @@
 <p align="center" id="description">Local_Manifests for Infinity X </p>
 
 ```
-git clone https://github.com/AsTechpro20/local_manifests_blossom.git -b infinity .repo/local_manifests
+git clone https://github.com/Sakurajima07/local_manifests_blossom.git -b infinity .repo/local_manifests
 ```
