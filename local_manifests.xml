@@ -21,7 +21,10 @@
 
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="sakurajima07" revision="Udon_v2" />
-  
+
+  <!-- BCR -->
+  <project path="vendor/bcr" name="vendor_bcr" remote="sakurajima07" revision="main" />
+
   <!-- ViPER4AndroidFX -->
   <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="astechpro20" revision="main" />
   
