@@ -19,6 +19,6 @@
   </project>
 
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="sakurajima07" revision="Udon_v2" />
+  <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="sakurajima07" revision="lineage-23" />
   
 </manifest>
