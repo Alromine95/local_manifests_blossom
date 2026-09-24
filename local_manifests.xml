@@ -10,8 +10,6 @@
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
 
-  <!-- SELinux policies -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="astechpro20" revision="fourteen" />
 
   <!-- Hardware Supports -->
    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="astechpro20" revision="fourteen" />
