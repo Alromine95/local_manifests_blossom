@@ -11,8 +11,6 @@
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
 
 
-  <!-- Hardware Supports -->
-   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="astechpro20" revision="fourteen" />
   
   <!-- kernel tree -->
   <project path="device/xiaomi/blossom-kernel" name="device_xiaomi_blossom-kernel" remote="astechpro20" revision="Udon_v2">
