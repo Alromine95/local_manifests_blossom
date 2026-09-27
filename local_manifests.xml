@@ -5,9 +5,10 @@
   <remote name="25ji" fetch="https://github.com/25ji-Telegram-de" />
   <remote name="astechpro20" fetch="https://github.com/AsTechpro20" />
   <remote name="LOS" fetch="https://github.com/LineageOS" />
+  <remote name="alro" fetch="https://github.com/Alromine95" />
 
   <!-- Device Trees -->
-  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="astechpro20" revision="lineage-20" />
+  <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-20" />
 
   <!-- SELinux Policies -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="LOS" revision="lineage-20" />
