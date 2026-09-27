@@ -6,13 +6,12 @@
   <remote name="25ji" fetch="https://github.com/25ji-Telegram-de" />
   <remote name="astechpro20" fetch="https://github.com/AsTechpro20" />
   <remote name="alro" fetch="https://github.com/Alromine95" />
-  <remote name="arrow" fetch="https://github.com/ArrowOS" />
+
 
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
 
- <!-- ArrowOS Vendor (Added from your snippet) -->
-  <project name="android_vendor_arrow" path="vendor/arrow" remote="arrow" revision="arrow-14.0" />
+
   
   <!-- kernel tree -->
   <project path="device/xiaomi/blossom-kernel" name="device_xiaomi_blossom-kernel" remote="astechpro20" revision="Udon_v2">
