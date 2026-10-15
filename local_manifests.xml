@@ -11,11 +11,9 @@
 
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
-
-
-  
-  <!-- kernel tree -->
-  <project path="device/xiaomi/blossom-kernel" name="Iam-nishan/jujutsu-kernel" remote="gh" revision="V5" >
+ 
+  <!-- Kernel Trees -->
+  <project path="device/xiaomi/blossom-kernel" name="device_xiaomi_blossom-kernel" remote="t25" revision="lineage-20">
     <linkfile src="headers" dest="kernel/xiaomi/blossom" />
   </project>
 
