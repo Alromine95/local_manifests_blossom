@@ -10,6 +10,9 @@
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-22.2" />
 
+
+  <remove-project name="vendor_gms" />
+  
   <!-- gms -->
   <project path="vendor/gms" name="Pixelos-aosp/vendor_gms-15" remote="gh" revision="fifteen" />
 
