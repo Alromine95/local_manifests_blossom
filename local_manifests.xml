@@ -12,10 +12,10 @@
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
  
-  <!-- Kernel Trees -->
-  <project path="device/xiaomi/blossom-kernel" name="device_xiaomi_blossom-kernel" remote="t25" revision="lineage-20">
+ <!-- kernel tree -->
+  <project path="device/xiaomi/blossom-kernel" name="android_device_xiaomi_blossom-kernel" remote="zy" revision="main" >
     <linkfile src="headers" dest="kernel/xiaomi/blossom" />
-  </project>
+  </project> 
 
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/blossom" name="proprietary_vendor_xiaomi_blossom" remote="astechpro20" revision="Udon_v2" />
