@@ -12,7 +12,7 @@
   <!-- Device Trees -->
   <project path="device/xiaomi/blossom" name="android_device_xiaomi_blossom" remote="alro" revision="lineage-21" />
  
-<!-- Kernel Trees -->
+  <!-- Kernel Trees -->
   <project path="device/xiaomi/blossom-kernel" name="device_xiaomi_blossom-kernel" remote="t25" revision="fourteen">
     <linkfile src="headers" dest="kernel/xiaomi/blossom" />
   </project>
